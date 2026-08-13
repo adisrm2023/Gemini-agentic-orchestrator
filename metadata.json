@@ -1,0 +1,6 @@
+
+{
+  "name": "Gemini Agentic Orchestrator",
+  "description": "A high-fidelity simulation of an agentic AI pipeline featuring Planner, Selector, Reporter, Reviewer, and Final Report agents powered by Google Gemini.",
+  "requestFramePermissions": []
+}
